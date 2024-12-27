@@ -1,7 +1,9 @@
+// Expected output [v11, v12, version145, verhakspofnds1, version2, vukoha]
+// replace the string which has all of its characters in another string with that.
 /* Online Java Compiler and Editor */
 import java.util.*;
 
-public class HelloWorld {
+public class RemoveTheExistingString {
 
     public static void main(String []args) {
       this.method1();
